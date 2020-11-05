@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Again and surge
+          Learn React Again and surge with auto delployement and commit 
         </a>
       </header>
     </div>
